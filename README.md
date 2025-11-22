@@ -14,3 +14,10 @@ The client aims to to impact tens of thousands of lives and help them benefit fr
 - Understanding who should the sales team be getting in touch with, for instance to understand the best customer segment we should be focusing on by optimizing the reward, such as people who has “Bachelors”, is “Full Time Employed”, Residing in “USA” with Training “X” would more likely to subscribe or would more likely to schedule calls.
 
 - What are the best actions leading to more subscriptions, or calls? 
+
+## PERFORMANCE EVALUATION FINDINGS
+<img width="1678" height="1012" alt="Apziva_P7_Customer_Results" src="https://github.com/user-attachments/assets/5faf4947-5ac0-494b-80ab-6a123fd47305" />
+[Plot_1 : 
+<img width="1676" height="1026" alt="Apziva_P7_HighValued_Customers" src="https://github.com/user-attachments/assets/ae7ad86f-6006-43c1-bab5-374abe573dc0" />
+
+<img width="1676" height="1026" alt="Apziva_P7_HighValued_Customers" src="https://github.com/user-attachments/assets/933b32e8-0d64-47cf-b5ee-7db3f9c72ef7" />
